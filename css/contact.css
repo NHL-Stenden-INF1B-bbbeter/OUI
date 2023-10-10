@@ -14,16 +14,24 @@
 .contact-header{
     display: flex;
     font-family: "Caveat", serif;
-    align-items: center;
-    margin-left: 43%;
+    margin-left: 850px;
     margin-bottom: 40%;
-    font-size: 100px;
+    font-size: 120px;
     color: #95261F;
 }
 
-.contact-information{
+.contact-information {
     display: flex;
     align-items: center;
-    margin-left: 10%;
-    
+    margin-left: -700px;
+    margin-bottom: 200px;
+    font-size: 20px;
+    font-family: 'circularstd', sans-serif;
+    color: #95261F;
 }
+
+@font-face {
+    font-family: 'circularstd';
+    src: url('Fonts/Circularstd.otf') format('opentype');
+}
+
