@@ -30,6 +30,18 @@
     color: #95261F;
 }
 
+.maps-area {
+    display: flex;
+    align-items: absolute;
+    border: 5px solid #95261F;
+    height: 350px;
+    width: 515px;
+    background-color: white;
+    margin-top: 200px;
+    margin-left: 250px;
+}
+
+
 @font-face {
     font-family: 'circularstd';
     src: url('Fonts/Circularstd.otf') format('opentype');
