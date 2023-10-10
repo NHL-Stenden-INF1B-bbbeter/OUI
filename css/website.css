@@ -80,3 +80,60 @@ img.logo {
     font-weight: 700;
     font-size: 100px;
 }
+
+/* slide animation */
+
+.slide-container{
+    display:flex;
+
+}
+
+.slider-frame{
+    overflow: hidden;
+    height: 294px;
+    width: 400px;
+    margin-left: 200px;
+    margin-right: 200px;
+    position: relative; /* Voeg relatieve positionering toe */
+    border: solid 3px #95261F;
+}
+
+@keyframes slide_animation {
+    0% {left: 0;}
+    25% {left: 0;}
+    35% {left: -400px;} /* Verschuif de eerste afbeelding naar links */
+    50% {left: -400px;}
+    60% {left: -800px;} /* Verschuif de tweede afbeelding naar links */
+    75% {left: -800px;}
+    85% {left: -1200px;} /* Verschuif de derde afbeelding naar links */
+    100% {left: -1200px;}
+}
+
+.img-container {
+    display: flex;
+    width: 400px;
+    height: 294px;
+    position: absolute; /* Voeg absolute positionering toe */
+    top: 0;
+    left: 0;
+    animation-name: slide_animation;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+    align-content: center;
+}
+
+.img-container:nth-child(2) {
+    animation-delay: 4s; /* Voeg vertraging toe aan de tweede afbeelding */
+}
+
+.img-container:nth-child(3) {
+    animation-delay: 8s; /* Voeg vertraging toe aan de derde afbeelding */
+}
+
+img {
+    width: 400px;
+    height: 294px;
+    object-fit: cover;
+}
+
+/* end slide animation */
