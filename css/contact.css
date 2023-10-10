@@ -11,3 +11,19 @@
     height: 100vh;
 }
 
+.contact-header{
+    display: flex;
+    font-family: "Caveat", serif;
+    align-items: center;
+    margin-left: 43%;
+    margin-bottom: 40%;
+    font-size: 100px;
+    color: #95261F;
+}
+
+.contact-information{
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+    
+}
