@@ -11,7 +11,7 @@
     <header>
         <div class="header-container">
             <div class="header-logo">
-                <a href="#home"><img class="logo" src="/week5/OUI/Logos/Logo-01.png" alt="OUI"></a>
+                <a href="#home"><img class="logo" src="../Logos/Logo-01.png" alt="OUI"></a>
             </div>
             <div class="header-links">
                 <ul>
