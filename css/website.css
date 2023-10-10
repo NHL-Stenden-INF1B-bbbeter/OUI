@@ -5,7 +5,7 @@
 
 .header-container {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     position: fixed;
     width: 100vw;
@@ -16,6 +16,11 @@
 
 
 .header-logo{
+    display: flex;
+    align-items: center;
+}
+
+.header-links{
     display: flex;
     align-items: center;
 }
