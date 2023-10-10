@@ -22,7 +22,7 @@
                 Monday:&emsp;&emsp;&nbsp;12:00-18:00<br>
                 Tuesday:&emsp;&ensp;&nbsp; 12:00-18:00<br>
                 Wednesday:&ensp; 12:00-18:00<br>
-                Thursday: &emsp;&nbsp; 12:00-18:00<br>
+                Thursday:&emsp;&nbsp; 12:00-18:00<br>
                 Friday:&emsp;&emsp;&emsp; 12:00-18:00<br>
                 Saturday:&emsp;&ensp;&nbsp; 12:00-18:00<br>
                 Sunday: &emsp;&emsp; 12:00-18:00<br>
