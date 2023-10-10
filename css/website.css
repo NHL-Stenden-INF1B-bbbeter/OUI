@@ -1,8 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .header-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 96.5vw; /* Opmerking: gewijzigd van "96,5vw" naar "96.5vw" (komma naar punt) */
+    position: fixed;
+    width: 100vw;
     margin: 0 auto;
     padding: 0 20px;
     background-color: #EDE5BB;
@@ -39,22 +45,23 @@ img.logo {
 .home {
     display: flex;
     background-color: #fff;
-    padding: 60px 0;
-    text-align: center;
-    margin: 20px;
-    height: 500px;
-    width: 97%;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    height: 712px;
+    width: 100%;
     background-image: url("../photos/pexels-chevanon-photography-302894.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .home-content {
+    display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
-    width: 50%;
-    height: 50%;
+    width: 30%;
+    height: 20%;
     border: 5px solid #BAD3EE;
     color: white;
     background: rgba(217, 217, 217, 0.06);
@@ -62,6 +69,7 @@ img.logo {
     font-weight: 700;
     font-size: 100px;
 }
+
 
 
 
