@@ -19,6 +19,7 @@
     align-items: center;
 }
 
+
 .header-links {
     display: flex;
     align-items: center;
@@ -28,6 +29,7 @@
 
 img.logo {
     width: 100px;
+    height: 56px;
 }
 
 .header-container ul {
