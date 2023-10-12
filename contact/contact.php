@@ -48,7 +48,7 @@
     <script type='text/javascript' src='http://www.bing.com/api/maps/mapcontrol?callback=GetMap' async defer></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
-    <link rel="stylesheet" href="contact/contact.css">
+    <link rel="stylesheet" href="css/contact.css">
     <link href='https://fonts.googleapis.com/css?family=Caveat' rel='stylesheet'>
 </head>
 <body>
