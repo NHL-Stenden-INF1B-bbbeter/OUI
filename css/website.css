@@ -12,6 +12,7 @@
     width: 100vw;
     background-color: #EDE5BB;
     padding: 0 20px;
+    z-index: 999;
 }
 
 body{
