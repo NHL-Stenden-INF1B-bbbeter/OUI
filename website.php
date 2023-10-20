@@ -29,32 +29,22 @@
 
     <!-- slideshow van de fotos -->
 
-    <div class="slide-container">
-        <div class="slider-frame">
-            <div class="slide-image">
-                <div class="img-container">
-                    <img src="photos/pexels-chevanon-photography-302894.jpg" alt="koffie">
-                </div>
-                <div class="img-container">
-                    <img src="photos/pexels-lilartsy-1793035.jpg" alt="thee">
-                </div>
-                <div class="img-container">
-                    <img src="photos/pexels-maria-tyutina-814264.jpg" alt="thee 2">
-                </div>
-            </div>
+    <div id="container-slider">
+        <div id="slider1">
+            <figure>
+                <img class="center-img" src="photos/pexels-chevanon-photography-302894.jpg" alt="koffie">
+                <img class="center-img" src="photos/pexels-lilartsy-1793035.jpg" alt="thee">
+                <img class="center-img" src="photos/pexels-maria-tyutina-814264.jpg" alt="thee 2">
+                <img class="center-img" src="photos/pexels-christina-polupanova-10281101-2.jpg" alt="thee 2">
+            </figure>
         </div>
-        <div class="slider-frame">
-            <div class="slide-image">
-                <div class="img-container">
-                    <img src="photos/pexels-chevanon-photography-302896.jpg" alt="koffie">
-                </div>
-                <div class="img-container">
-                    <img src="photos/pexels-marta-dzedyshko-7597263.jpg" alt="thee">
-                </div>
-                <div class="img-container">
-                    <img src="photos/pexels-christina-polupanova-10281101.jpg" alt="thee 2">
-                </div>
-            </div>
+        <div id="slider2">
+            <figure>
+                <img class="center-img" src="photos/pexels-chevanon-photography-302902.jpg" alt="koffie">
+                <img class="center-img" src="photos/pexels-marta-dzedyshko-7597263-2.jpg" alt="thee">
+                <img class="center-img" src="photos/pexels-chevanon-photography-302896-2.jpg" alt="thee 2">
+                <img class="center-img" src="photos/pexels-chevanon-photography-302904-2.jpg" alt="thee 2">
+            </figure>
         </div>
     </div>
 
