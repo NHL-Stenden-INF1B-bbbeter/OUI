@@ -47,3 +47,8 @@
     src: url('Fonts/Circularstd.otf') format('opentype');
 }
 
+#mymap{
+    position:relative;
+    width:600px;
+    height:400px;
+}

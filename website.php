@@ -125,7 +125,7 @@
                 Sunday: &emsp;&emsp; 12:00-18:00<br>
             </p>
         </div>
-        <div id="myMap" class="maps-area" style="position:relative;width:600px;height:400px;"></div>
+        <div id="myMap" class="maps-area"></div>
     </div>
 
     <!-- einde slideshow html -->
