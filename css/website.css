@@ -67,7 +67,7 @@ img.logo {
     align-items: center;
     justify-content: center;
     margin: 0px;
-    height: 712px;
+    height: 100vh;
     width: 100%;
     background-image: url("../photos/pexels-chevanon-photography-302894.jpg");
     background-size: cover;
