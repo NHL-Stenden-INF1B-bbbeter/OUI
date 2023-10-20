@@ -6,6 +6,7 @@
 
 .contact-container {
     display: flex;
+    justify-content: absolute;
     background-color: #EDE5BB;
     width: 100%;
     height: 100vh;
@@ -13,7 +14,7 @@
 
 .contact-header{
     display: flex;
-    align-items: center;
+    align-items: absolute;
     font-family: "Caveat", serif;
     margin-left: 600px;
     margin-bottom: 40%;
@@ -31,7 +32,6 @@
 }
 
 .maps-area {
-    display: flex;
     align-items: absolute;
     border: 5px solid #95261F;
     height: 350px;
