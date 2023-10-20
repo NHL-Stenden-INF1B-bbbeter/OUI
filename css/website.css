@@ -198,6 +198,10 @@ img.logo {
     justify-content: center;
 }
 
+.review-container p h1 {
+    font-family: "Circular Std";
+}
+
 .review1 {
     padding: 20px;
     margin-right: 100px;
