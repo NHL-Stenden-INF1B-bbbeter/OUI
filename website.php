@@ -72,7 +72,20 @@
     </div>
 
     <!-- slideshow van de fotos -->
-
+    <div class="review-container">
+        <div class="review1">
+            <h1>PIET</h1>
+            <h1>&starf; &starf; &starf; &starf; &starf;</h1>
+            <p>“Ik was voor het eerst in Emmen en kwam hier terecht. Wat een fantastische koffie, 
+                en het personeel is erg vriendelijk. Vandaar vijf sterren!”</p>
+        </div>
+        <div class="review2">
+            <h1>KLAAS</h1>
+            <h1>&starf; &starf; &starf; &starf; &starf;</h1>
+            <p>“Ik studeer in Emmen, en had zin in een kopje koffie. Toen ik bij OUI kwam voelde het helemaal goed. 
+                De koffie is lekker en het personeel is vriendelijk. Vijf sterren!”</p>
+        </div>
+    </div>
     <div id="container-slider">
         <div id="slider1">
             <figure>
@@ -89,20 +102,6 @@
                 <img class="center-img" src="photos/pexels-chevanon-photography-302896-2.jpg" alt="thee 2">
                 <img class="center-img" src="photos/pexels-chevanon-photography-302904-2.jpg" alt="thee 2">
             </figure>
-        </div>
-    </div>
-    <div class="review-container">
-        <div class="review1">
-            <h1>PIET</h1>
-            <h1>&starf; &starf; &starf; &starf; &starf;</h1>
-            <p>“Ik was voor het eerst in Emmen en kwam hier terecht. Wat een fantastische koffie, 
-                en het personeel is erg vriendelijk. Vandaar vijf sterren!”</p>
-        </div>
-        <div class="review2">
-            <h1>KLAAS</h1>
-            <h1>&starf; &starf; &starf; &starf; &starf;</h1>
-            <p>“Ik studeer in Emmen, en had zin in een kopje koffie. Toen ik bij OUI kwam voelde het helemaal goed. 
-                De koffie is lekker en het personeel is vriendelijk. Vijf sterren!”</p>
         </div>
     </div>
     <div class=contact-container>
