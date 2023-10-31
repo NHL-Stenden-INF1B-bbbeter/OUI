@@ -46,7 +46,7 @@ html {
     margin-bottom: 10px;
     align-items: flex-start; /* Voeg deze regel toe om items links uit te lijnen */
     font-family: 'Caveat';
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
 }
 
@@ -58,7 +58,7 @@ html {
 }
 
 .price-list {
-    margin-left: 20px;
+    margin-left: 50px;
 }
 .sweets-container{
     margin-top: 50px;
@@ -70,7 +70,7 @@ html {
 }
 
 .sweets-price{
-    margin-left: 85px;
+    margin-left: 105px;
 }
 .title-drink{
     display: flex;
@@ -85,9 +85,12 @@ html {
     flex-direction: column;
     margin-bottom: 10px;
     align-items: flex-start; /* Voeg deze regel toe om items links uit te lijnen */
+}
+.coffee-tea p{
     font-size: 20px;
     font-family: 'Caveat';
     font-weight: bold;
+    font-size: 25px;
 }
 .coffee-tea-list{
     display: flex;
@@ -104,11 +107,11 @@ html {
     display: flex;
     align-items: flex-start; /* Voeg deze regel toe om items links uit te lijnen */
     margin-top: 10px;
+    font-size: 19px;
 }
 .cool-drink-price{
-    margin-left: 10px;
+    margin-left: 35px;
 }
-
 
 /* Stijl voor de lijsten */
 ul {
@@ -116,9 +119,9 @@ ul {
 }
 
 ul li {
-    font-family: Caveat,'Circular Std';
-    font-size: 16px;
-    margin-bottom: 5px;
+    font-family: 'Caveat';
+    font-size: 19px;
+    font-weight: bold;
 }
 .img_croissant{
     position: absolute;
