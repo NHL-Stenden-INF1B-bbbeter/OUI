@@ -65,6 +65,7 @@
                     <li><a href="#menu">Menu</a></li>
                     <li><a href="#about-us">About us</a></li>
                     <li><a href="#contact">Contact</a></li>
+                    <li><a href="websiteEN.php">English</a></li>
                 </ul>
             </div>
         </div>
