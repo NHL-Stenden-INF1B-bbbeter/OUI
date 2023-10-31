@@ -41,6 +41,11 @@
     margin-left: 250px;
 }
 
+.tijden{
+    display: flex;
+    align-items: right;
+}
+
 
 @font-face {
     font-family: 'circularstd';
