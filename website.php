@@ -84,6 +84,7 @@
         <div class="Pain-Croissant">
             <p>Pain Croissant or Petit Pain</p>
             <div class="Pain-list">
+            <img class="img_croissant" src="photos/illustrations_light blue_croissant.png" alt="croissant">
                 <ul class="food-list">
                     <li>Naturel/ Plain</li>
                     <li>Butter</li>
@@ -116,6 +117,7 @@
             <div class="sweets-container">
                 <p>Sweets</p>
                 <div class="sweets-list">
+                <img class="img_merengue" src="photos/illustrations_light blue_merengue.png" alt="merengue">
                     <ul class="sweet-list">
                         <li>Macrons</li>
                         <li>Paris-Brest</li>
@@ -140,6 +142,7 @@
     <p class="title-drink">Drinks</p>
     <div class="coffee-tea"><p>Coffee & Tea</p>
         <div class="coffee-tea-list">
+        <img class="img_coffee" src="photos/illustrations_light blue_coffee.png" alt="coffee">
             <ul class="drinks-list">
                 <li>Cappucino</li>
                 <li>Latte</li>
@@ -164,6 +167,7 @@
         <div class="cool-drinks">
             <p>Cool Drinks</p>
             <div class="cool-drink-list">
+            <img class="img_tea" src="photos/illustrations_light blue_tea.png" alt="tea">
                 <ul class="cool-dink-list">
                     <li>Home-made lemonade</li>
                     <li>Jus D’orange</li>

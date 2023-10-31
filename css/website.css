@@ -4,7 +4,6 @@
 }
 
 * {
-    font-family: "Circular Std";
     margin: 0;
     padding: 0;
 }
@@ -219,6 +218,7 @@ img.logo {
     width: 318px;
     height: 468px;
     font-size: 20px;
+    font-family: "Circular Std";
 }
 .review2 {
     padding: 20px;
@@ -232,6 +232,7 @@ img.logo {
     width: 318px;
     height: 468px;
     font-size: 20px;
+    font-family: "Circular Std";
 }
 /* end slide animation */
 .about-us-container{
@@ -241,10 +242,13 @@ img.logo {
     flex-direction: column;
     align-items: center;   
 }
-.about-us-title{
-    font-size: 30px;
+.about-us-title p{
+    font-size: 40px;
+    font-family: "Caveat";
 }
 .about-us{
     width: 70%;
     margin-top: 25px;
+    font-family: "Circular Std";
 }
+
