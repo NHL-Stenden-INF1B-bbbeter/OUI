@@ -65,7 +65,7 @@
                     <li><a href="#menu">Menu</a></li>
                     <li><a href="#about-us">About us</a></li>
                     <li><a href="#contact">Contact</a></li>
-                    <li><a href="websiteEN.php">English</a></li>
+                    <li><a href="website.php">Nederlands</a></li>
                 </ul>
             </div>
         </div>
@@ -197,14 +197,12 @@
         <div class="review1">
             <h1>PIET</h1>
             <h1>&starf; &starf; &starf; &starf; &starf;</h1>
-            <p>“Ik was voor het eerst in Emmen en kwam hier terecht. Wat een fantastische koffie, 
-                en het personeel is erg vriendelijk. Vandaar vijf sterren!”</p>
+            <p>“I was in Emmen for the first time and ended up here. What fantastic coffee, and the staff are very friendly. Hence five stars!”</p>
         </div>
         <div class="review2">
             <h1>KLAAS</h1>
             <h1>&starf; &starf; &starf; &starf; &starf;</h1>
-            <p>“Ik studeer in Emmen, en had zin in een kopje koffie. Toen ik bij OUI kwam voelde het helemaal goed. 
-                De koffie is lekker en het personeel is vriendelijk. Vijf sterren!”</p>
+            <p>“I study in Emmen and wanted a cup of coffee. When I came to OUI it felt absolutely right. The coffee is tasty and the staff is friendly. Five stars!”</p>
         </div>
     </div>
     <div id="about-us"></div>
@@ -214,14 +212,12 @@
         </div>
         <div class="about-us">
         <p>
-            Welkom bij OUI! Wij begroeten elke klant met open armen en een warme kop koffie. Onze missie is simpel maar van groot belang: we willen er zeker van zijn dat u nooit voor een gesloten deur staat en dat u moeiteloos de weg naar ons vindt. Bij OUI streven we ernaar om uw ervaring onvergetelijk te maken. Onze koffie is met liefde gezet, en ons team staat altijd klaar om u te verwelkomen in een gastvrije en gezellige omgeving.
+            Welcome to OUI! We greet every customer with open arms and a hot cup of coffee. Our mission is simple but of great importance: we want to make sure that you never stand in front of a closed door and that you find your way to us effortlessly. At OUI we strive to make your experience unforgettable. Our coffee is made with love, and our team is always ready to welcome you in a hospitable and cozy environment.
         </p><br>
         <p>
-            Of u nu alleen langskomt om te genieten van een rustig moment met een boek, met vrienden bij ons komt ontbijten, of een zakelijke bijeenkomst plant, we staan altijd voor u klaar. We bieden een uitgebreid menu met heerlijke gerechten en verfrissende drankjes, zodat er voor ieder wat wils is.
-        </p><br>
+            Whether you're just stopping by to enjoy a quiet moment with a book, joining us for breakfast with friends, or planning a business meeting, we're always here to help. We offer an extensive menu with delicious dishes and refreshing drinks, so there is something for everyone.</p><br>
         <p>
-            Dankzij onze centrale locatie in het hart van de stad, kunt u ons gemakkelijk bereiken en zijn we een ideale ontmoetingsplek voor iedereen. We kijken ernaar uit om u te verwelkomen bij OUI en uw dag een beetje specialer te maken.
-        </p><br>
+            Thanks to our central location in the heart of the city, you can easily reach us and we are an ideal meeting place for everyone. We look forward to welcoming you to OUI and making your day a little more special.</p><br>
         </div>
     </div>
     <div id="container-slider">
@@ -254,12 +250,12 @@
                 Phone: 050-226435<br><br><br><br><br>
                 <b>Opening times:</b><br>
                 Monday:&emsp;&emsp;&nbsp;12:00-18:00<br>
-                Tuesday:&emsp;&ensp;&nbsp;&nbsp; 12:00-18:00<br>
+                Tuesday:&emsp;&ensp;&nbsp; 12:00-18:00<br>
                 Wednesday:&ensp; 12:00-18:00<br>
                 Thursday: &emsp;&nbsp; 12:00-18:00<br>
                 Friday:&emsp;&emsp;&emsp; 12:00-18:00<br>
                 Saturday:&emsp;&ensp;&nbsp; 12:00-18:00<br>
-                Sunday: &emsp;&emsp;&nbsp; 12:00-18:00<br>
+                Sunday: &emsp;&emsp; 12:00-18:00<br>
             </p>
         </div>
         <div id="myMap" class="maps-area"></div>
