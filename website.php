@@ -63,8 +63,9 @@
             <div class="header-links">
                 <ul>
                     <li><a href="#menu">Menu</a></li>
-                    <li><a href="#about us">About us</a></li>
+                    <li><a href="#about-us">About us</a></li>
                     <li><a href="#contact">Contact</a></li>
+                    <li><a href="websiteEN.php">English</a></li>
                 </ul>
             </div>
         </div>
@@ -72,6 +73,7 @@
     <div class="home" id="home">
         <div class="home-content">OUI</div>
     </div>
+    <div id="menu"></div>
     <div class="menu-container">
         <div class="title">
             <h1>Menu</h1>
@@ -201,6 +203,7 @@
                 De koffie is lekker en het personeel is vriendelijk. Vijf sterren!”</p>
         </div>
     </div>
+    <div id="about-us"></div>
     <div class="about-us-container">
         <div class="about-us-title">
             <p>About us</p>
@@ -236,7 +239,7 @@
         </div>
     </div>
     <div class=contact-container>
-        <div class=contact-header>Contact</div>
+        <div class=contact-header id="contact">Contact</div>
         <div class=contact-information>
             <p>
                 <b>Our Location:</b><br>
