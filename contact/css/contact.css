@@ -5,6 +5,7 @@
   }
 
 .contact-container {
+    margin-top: 90px;
     display: flex;
     justify-content: absolute;
     background-color: #EDE5BB;

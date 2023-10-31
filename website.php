@@ -49,6 +49,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="contact/css/contact.css">
     <link rel="stylesheet" href="css/website.css">
+    <link rel="stylesheet" href="Menu2/Menu2.css">
     <link href='https://fonts.googleapis.com/css?family=Caveat' rel='stylesheet'>
     <title>OUI Website</title>
 </head>
@@ -71,7 +72,120 @@
     <div class="home" id="home">
         <div class="home-content">OUI</div>
     </div>
+    <div class="menu-container">
+        <div class="title">
+            <h1>Menu</h1>
+        </div>
+        <div class="menu-kaart">
+    <div class="food">
+        <p class="title-food">Food</p>
+        <div class="Pain-Croissant">
+            <p>Pain Croissant or Petit Pain</p>
+            <div class="Pain-list">
+                <ul class="food-list">
+                    <li>Naturel/ Plain</li>
+                    <li>Butter</li>
+                    <li>Jam or Nutella</li>
+                    <li>Brie or camembert</li>
+                    <li>Cheese with walnuts</li>
+                    <li>Cream cheese</li>
+                    <li>Soft goat cheese</li>
+                    <li>Smoked salmon</li>
+                    <li>Tuna salad</li>
+                    <li>Egg salad</li>
+                    <li>Hummus</li>
+                    <li>French ragout</li>
+                </ul>
+                <ul class="price-list">
+                    <li>€1,30</li>
+                    <li>€2,30</li>
+                    <li>€2,30</li>
+                    <li>€2,30</li>
+                    <li>€2,30</li>
+                    <li>€2,30</li>
+                    <li>€2,30</li>
+                    <li>€2,30</li>
+                    <li>€2,30</li>
+                    <li>€2,30</li>
+                    <li>€2,30</li>
+                    <li>€2,30</li>
+                </ul>
+            </div>
+            <div class="sweets-container">
+                <p>Sweets</p>
+                <div class="sweets-list">
+                    <ul class="sweet-list">
+                        <li>Macrons</li>
+                        <li>Paris-Brest</li>
+                        <li>Cream Puffs</li>
+                        <li>Eclair</li>
+                        <li>Milleteuille</li>
+                    </ul>
+                    <div class="sweets-price">
+                        <ul class="sweet-price-list">
+                            <li>€1,50</li>
+                            <li>€2,50</li>
+                            <li>€2,50</li>
+                            <li>€2,50</li>
+                            <li>€2,50</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="drinks">
+    <p class="title-drink">Drinks</p>
+    <div class="coffee-tea"><p>Coffee & Tea</p>
+        <div class="coffee-tea-list">
+            <ul class="drinks-list">
+                <li>Cappucino</li>
+                <li>Latte</li>
+                <li>Mocha</li>
+                <li>Espresso</li>
+                <li>Americano</li>
+                <li>Americano</li>
+                <li>Flat White</li>
+                <li>Tea</li>
+            </ul>
+            <ul class="drinks-price-list">
+                <li>€1,50</li>
+                <li>€2,50</li>
+                <li>€2,50</li>
+                <li>€2,50</li>
+                <li>€2,50</li>
+                <li>€2,50</li>
+                <li>€2,50</li>
+                <li>€2,50</li>
+            </ul>
+        </div>
+        <div class="cool-drinks">
+            <p>Cool Drinks</p>
+            <div class="cool-drink-list">
+                <ul class="cool-dink-list">
+                    <li>Home-made lemonade</li>
+                    <li>Jus D’orange</li>
+                    <li>Apple Juice </li>
+                    <li>Ice Tea</li>
+                    <li>Flat water</li>
+                    <li>Sparkling water</li>
+                </ul>
+                <div class="cool-drink-price">
+                    <ul class="sweet-price-list">
+                        <li>€1,50</li>
+                        <li>€2,50</li>
+                        <li>€2,50</li>
+                        <li>€2,50</li>
+                        <li>€2,50</li>
+                        <li>€2,50</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+    </div>
     <!-- slideshow van de fotos -->
     <div class="review-container">
         <div class="review1">
@@ -85,6 +199,22 @@
             <h1>&starf; &starf; &starf; &starf; &starf;</h1>
             <p>“Ik studeer in Emmen, en had zin in een kopje koffie. Toen ik bij OUI kwam voelde het helemaal goed. 
                 De koffie is lekker en het personeel is vriendelijk. Vijf sterren!”</p>
+        </div>
+    </div>
+    <div class="about-us-container">
+        <div class="about-us-title">
+            <p>About us</p>
+        </div>
+        <div class="about-us">
+        <p>
+            Welkom bij OUI! Wij begroeten elke klant met open armen en een warme kop koffie. Onze missie is simpel maar van groot belang: we willen er zeker van zijn dat u nooit voor een gesloten deur staat en dat u moeiteloos de weg naar ons vindt. Bij OUI streven we ernaar om uw ervaring onvergetelijk te maken. Onze koffie is met liefde gezet, en ons team staat altijd klaar om u te verwelkomen in een gastvrije en gezellige omgeving.
+        </p><br>
+        <p>
+            Of u nu alleen langskomt om te genieten van een rustig moment met een boek, met vrienden bij ons komt ontbijten, of een zakelijke bijeenkomst plant, we staan altijd voor u klaar. We bieden een uitgebreid menu met heerlijke gerechten en verfrissende drankjes, zodat er voor ieder wat wils is.
+        </p><br>
+        <p>
+            Dankzij onze centrale locatie in het hart van de stad, kunt u ons gemakkelijk bereiken en zijn we een ideale ontmoetingsplek voor iedereen. We kijken ernaar uit om u te verwelkomen bij OUI en uw dag een beetje specialer te maken.
+        </p><br>
         </div>
     </div>
     <div id="container-slider">

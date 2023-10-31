@@ -1,0 +1,113 @@
+/* Algemene stijlreset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Lettertype */
+@font-face {
+    font-family: 'Circular Std';
+    src: url(../Fonts/Circularstd.otf);
+}
+
+
+/* Algemene stijlen */
+html {
+    scroll-behavior: smooth;
+}
+.menu-container{
+    margin-top: 90px;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.menu-kaart {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title-food {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    margin-bottom: 30px;
+    font-family: 'Circular Std';
+}
+
+.Pain-Croissant {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    align-items: flex-start; /* Voeg deze regel toe om items links uit te lijnen */
+}
+
+.Pain-list {
+    display: flex;
+    align-items: flex-start; /* Voeg deze regel toe om items links uit te lijnen */
+    margin-top: 10px;
+}
+
+.price-list {
+    margin-left: 20px;
+}
+.sweets-container{
+    margin-top: 50px;
+}
+.Pain-Croissant .sweets-list {
+    display: flex;
+    align-items: flex-start; /* Voeg deze regel toe om items links uit te lijnen */
+    margin-top: 15px;
+}
+
+.sweets-price{
+    margin-left: 85px;
+}
+.title-drink{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+.coffee-tea{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    align-items: flex-start; /* Voeg deze regel toe om items links uit te lijnen */
+}
+.coffee-tea-list{
+    display: flex;
+    align-items: flex-start; /* Voeg deze regel toe om items links uit te lijnen */
+    margin-top: 10px;
+}
+.drinks-price-list{
+    margin-left: 100px;
+}
+.cool-drinks{
+    margin-top: 128px;
+}
+.cool-drink-list{
+    display: flex;
+    align-items: flex-start; /* Voeg deze regel toe om items links uit te lijnen */
+    margin-top: 10px;
+}
+.cool-drink-price{
+    margin-left: 10px;
+}
+
+
+/* Stijl voor de lijsten */
+ul {
+    list-style: none;
+}
+
+ul li {
+    font-family: 'Circular Std';
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+
