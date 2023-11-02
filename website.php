@@ -63,7 +63,7 @@
             <div class="header-links">
                 <ul>
                     <li><a href="#menu">Menu</a></li>
-                    <li><a href="#about-us">About us</a></li>
+                    <li><a href="#about-us">Over ons</a></li>
                     <li><a href="#contact">Contact</a></li>
                     <li><a href="websiteEN.php">English</a></li>
                 </ul>
@@ -210,7 +210,7 @@
     <div id="about-us"></div>
     <div class="about-us-container">
         <div class="about-us-title">
-            <p>About us</p>
+            <p>Over Ons</p>
         </div>
         <div class="about-us">
         <p>
