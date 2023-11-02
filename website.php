@@ -65,7 +65,7 @@
                     <li><a href="#menu">Menu</a></li>
                     <li><a href="#about-us">Over ons</a></li>
                     <li><a href="#contact">Contact</a></li>
-                    <li><a href="websiteEN.php">English</a></li>
+                    <li><a href="websiteEN.php"><img class="vlag-brits" src="./photos/Brits.png" alt="Britse-vlag"></a></li>
                 </ul>
             </div>
         </div>

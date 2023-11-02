@@ -65,7 +65,7 @@
                     <li><a href="#menu">Menu</a></li>
                     <li><a href="#about-us">About us</a></li>
                     <li><a href="#contact">Contact</a></li>
-                    <li><a href="website.php">Nederlands</a></li>
+                    <li><a href="website.php"><img class="vlag-nederland" src="./photos/Vlag_Nederland.png" alt=""></a></li>
                 </ul>
             </div>
         </div>

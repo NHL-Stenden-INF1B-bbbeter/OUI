@@ -40,7 +40,12 @@ body{
     flex-grow: 1; 
     justify-content: center; 
 }
-
+.vlag-nederland{
+    width: 50px;
+}
+.vlag-brits{
+    width: 50px;
+}
 img.logo {
     width: 100px;
     height: 56px;
