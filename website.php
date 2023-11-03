@@ -264,27 +264,27 @@
                     <p class="locatie-text">Raadhuisplein 28, <br> Emmen</p>
                 </div>
                 <div class="contact-titel">
-                    <p>Contact</p>
+                    <p>Contact:</p>
                 </div>
                 <div class="contact-contact">
                     <ul>
-                        <li>mail: Oui@mail.com</li>
-                        <li>telefoonnummer: 591-123123</li>
+                        <li>Mail: Oui@mail.com</li>
+                        <li>Telefoonnummer: 591-123123</li>
                     </ul>
                 </div>
                 <div class="openings-tijden-titel">
-                    <p>Openingstijden</p>
+                    <p>Openingstijden:</p>
                 </div>
                 <div class="contact-openingstijden">
                     <div class="contact-openingstijden-dag">
                         <ul>
-                            <li>maandag:</li>
-                            <li>dinsdag:</li>
-                            <li>woensdag:</li>
-                            <li>donderdag:</li>
-                            <li>vrijdag:</li>
-                            <li>zaterdag:</li>
-                            <li>zondag:</li>
+                            <li>Maandag:</li>
+                            <li>Dinsdag:</li>
+                            <li>Woensdag:</li>
+                            <li>Donderdag:</li>
+                            <li>Vrijdag:</li>
+                            <li>Zaterdag:</li>
+                            <li>Zondag:</li>
                         </ul>
                     </div>
                     <div class="contact-openingstijden-tijd">

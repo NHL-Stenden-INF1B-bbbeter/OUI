@@ -259,7 +259,7 @@
                     <p class="locatie-text">Raadhuisplein 28, <br> Emmen</p>
                 </div>
                 <div class="contact-titel">
-                    <p>Contact</p>
+                    <p>Contact:</p>
                 </div>
                 <div class="contact-contact">
                     <ul>
@@ -268,7 +268,7 @@
                     </ul>
                 </div>
                 <div class="openings-tijden-titel">
-                    <p>Opening hours</p>
+                    <p>Opening hours:</p>
                 </div>
                 <div class="contact-openingstijden">
                     <div class="contact-openingstijden-dag">
