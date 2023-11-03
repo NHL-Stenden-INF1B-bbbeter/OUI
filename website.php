@@ -152,7 +152,7 @@
                                     <li>Mocha</li>
                                     <li>Espresso</li>
                                     <li>Americano</li>
-                                    <li>Americano</li>
+                                    <li>IJskoffie</li>
                                     <li>Flat White</li>
                                     <li>Thee</li>
                                 </ul>
