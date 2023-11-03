@@ -48,6 +48,7 @@
         <script type='text/javascript' src='http://www.bing.com/api/maps/mapcontrol?callback=GetMap' async defer></script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="css/website.css">
+        <link href='https://fonts.googleapis.com/css?family=Caveat' rel='stylesheet'>
         <title>OUI Website</title>
     </head>
     <body>
@@ -82,24 +83,24 @@
                 </div>
                 <div class="menu-kaart">
                     <div class="food">
-                        <p class="title-food">Food</p>
+                        <p class="title-food">Eten</p>
                         <div class="Pain-Croissant">
-                            <p>Pain Croissant or Petit Pain</p>
+                            <p>Croissants en Broodjes</p>
                             <div class="Pain-list">
                                 <img class="img_croissant" src="photos/illustrations_light blue_croissant.png" alt="croissant">
                                 <ul class="food-list">
-                                    <li>Naturel/ Plain</li>
-                                    <li>Butter</li>
-                                    <li>Jam or Nutella</li>
-                                    <li>Brie or camembert</li>
-                                    <li>Cheese with walnuts</li>
-                                    <li>Cream cheese</li>
-                                    <li>Soft goat cheese</li>
-                                    <li>Smoked salmon</li>
-                                    <li>Tuna salad</li>
-                                    <li>Egg salad</li>
+                                    <li>Naturel/ Neutraal</li>
+                                    <li>Boter</li>
+                                    <li>Jam of Nutella</li>
+                                    <li>Brie of camembert</li>
+                                    <li>Kaas met walnoten</li>
+                                    <li>Roomkaas</li>
+                                    <li>Geitenkaas</li>
+                                    <li>Gerookte zalm</li>
+                                    <li>Tonijnsalade</li>
+                                    <li>Eisalada</li>
                                     <li>Hummus</li>
-                                    <li>French ragout</li>
+                                    <li>Franse ragout</li>
                                 </ul>
                                 <ul class="price-list">
                                     <li>€1,30</li>
@@ -117,7 +118,7 @@
                                 </ul>
                             </div>
                             <div class="sweets-container">
-                                <p>Sweets</p>
+                                <p>Zoetigheden</p>
                                 <div class="sweets-list">
                                     <img class="img_merengue" src="photos/illustrations_light blue_merengue.png" alt="merengue">
                                     <ul class="sweet-list">
@@ -141,8 +142,8 @@
                         </div>
                     </div>
                     <div class="drinks">
-                        <p class="title-drink">Drinks</p>
-                        <div class="coffee-tea"><p>Coffee & Tea</p>
+                        <p class="title-drink">Drinken</p>
+                        <div class="coffee-tea"><p>Koffie & Thee</p>
                             <div class="coffee-tea-list">
                                 <img class="img_coffee" src="photos/illustrations_light blue_coffee.png" alt="coffee">
                                 <ul class="drinks-list">
@@ -153,7 +154,7 @@
                                     <li>Americano</li>
                                     <li>Americano</li>
                                     <li>Flat White</li>
-                                    <li>Tea</li>
+                                    <li>Thee</li>
                                 </ul>
                                 <ul class="drinks-price-list">
                                     <li>€1,50</li>
@@ -167,16 +168,16 @@
                                 </ul>
                             </div>
                             <div class="cool-drinks">
-                                <p>Cool Drinks</p>
+                                <p>Koude Dranken</p>
                                 <div class="cool-drink-list">
                                     <img class="img_tea" src="photos/illustrations_light blue_tea.png" alt="tea">
                                     <ul class="cool-dink-list">
-                                        <li>Home-made lemonade</li>
+                                        <li>Huisgemaakte limonade</li>
                                         <li>Jus D’orange</li>
-                                        <li>Apple Juice </li>
-                                        <li>Ice Tea</li>
-                                        <li>Flat water</li>
-                                        <li>Sparkling water</li>
+                                        <li>Appelsap </li>
+                                        <li>IJsthee</li>
+                                        <li>Water</li>
+                                        <li>Bruizend water</li>
                                     </ul>
                                     <div class="cool-drink-price">
                                         <ul class="sweet-price-list">
@@ -261,20 +262,20 @@
             <div class=contact-header id="contact">Contact</div>
                 <div class=contact-information>
                     <p>
-                        <b>Our Location:</b><br>
+                        <b>onze locatie:</b><br>
                         Raadshuisplein 28<br>
                         Emmen<br><br>
                         <b>Contact:</b><br>
-                        Mail: oui@mail.com<br>
-                        Phone: 050-226435<br><br><br><br><br>
-                        <b>Opening times:</b><br>
-                        Monday:<br>
-                        Tuesday:<br>
-                        Wednesday:<br>
-                        Thursday:<br>
-                        Friday:<br>
-                        Saturday:<br>
-                        Sunday:<br>
+                        E-Mail: oui@mail.com<br>
+                        Telefoon: 050-226435<br><br><br><br><br>
+                        <b>openingstijden:</b><br>
+                        maandag:<br>
+                        dinsdag:<br>
+                        woensdag:<br>
+                        donderdag:<br>
+                        vrijdag:<br>
+                        zaterdag:<br>
+                        zondag:<br>
                     </p>
                 </div>
                 <div class=openingstijden>
