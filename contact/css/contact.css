@@ -41,9 +41,13 @@
     margin-left: 250px;
 }
 
-.tijden{
+.openingstijden{
     display: flex;
+    justify-content: absolute;
     align-items: right;
+    font-size: 20px;
+    font-family: 'circularstd', sans-serif;
+    margin-top: 435px;
 }
 
 
@@ -82,4 +86,9 @@
       margin-left: 10px;
       min-height: 250px; 
     }
+    .openingstijden{
+      font-size: 16px;
+      margin-top: -125px;
+      margin-left: 150px;
+  }
   }

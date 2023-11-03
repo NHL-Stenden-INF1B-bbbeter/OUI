@@ -253,13 +253,24 @@
                 Mail: oui@mail.com<br>
                 Phone: 050-226435<br><br><br><br><br>
                 <b>Opening times:</b><br>
-                Monday:&emsp;&emsp;&nbsp;12:00-18:00<br>
-                Tuesday:&emsp;&ensp;&nbsp;&nbsp; 12:00-18:00<br>
-                Wednesday:&ensp; 12:00-18:00<br>
-                Thursday: &emsp;&nbsp; 12:00-18:00<br>
-                Friday:&emsp;&emsp;&emsp; 12:00-18:00<br>
-                Saturday:&emsp;&ensp;&nbsp; 12:00-18:00<br>
-                Sunday: &emsp;&emsp;&nbsp; 12:00-18:00<br>
+                Monday:<br>
+                Tuesday:<br>
+                Wednesday:<br>
+                Thursday:<br>
+                Friday:<br>
+                Saturday:<br>
+                Sunday:<br>
+            </p>
+        </div>
+        <div class=openingstijden>
+            <p>
+                12:00-18:00<br>
+                12:00-18:00<br>
+                12:00-18:00<br>
+                12:00-18:00<br>
+                12:00-18:00<br>
+                12:00-18:00<br>
+                12:00-18:00<br>
             </p>
         </div>
         <div id="myMap" class="maps-area"></div>
