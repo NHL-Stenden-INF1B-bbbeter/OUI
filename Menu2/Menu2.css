@@ -57,6 +57,11 @@ html {
     margin-top: 10px;
 }
 
+.Pain-list img{
+    position: absolute;
+    transform: rotate(-30deg);
+}
+
 .price-list {
     margin-left: 50px;
 }
@@ -68,6 +73,13 @@ html {
     align-items: flex-start; /* Voeg deze regel toe om items links uit te lijnen */
     margin-top: 15px;
 }
+
+.sweets-list img {
+    position: absolute;
+    transform: rotate(15deg);
+    margin-top: -20px;
+}
+
 
 .sweets-price{
     margin-left: 105px;
@@ -97,6 +109,13 @@ html {
     align-items: flex-start; /* Voeg deze regel toe om items links uit te lijnen */
     margin-top: 10px;
 }
+
+.coffee-tea-list img{
+    transform: rotate(-15deg);
+    position: absolute;
+    margin-top: -50px;
+}
+
 .drinks-price-list{
     margin-left: 100px;
 }
@@ -109,6 +128,13 @@ html {
     margin-top: 10px;
     font-size: 19px;
 }
+
+.cool-drink-list img{
+    transform: rotate(30deg);
+    position: absolute;
+    margin-top: -80px;
+}
+
 .cool-drink-price{
     margin-left: 35px;
 }
@@ -140,6 +166,7 @@ ul li {
     z-index: -1;
     width: 220px;
     opacity: 0.5;
+    padding-bottom: 20px;
 }
 .img_tea{
     position: absolute;
