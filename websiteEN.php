@@ -152,7 +152,7 @@
                                         <li>Mocha</li>
                                         <li>Espresso</li>
                                         <li>Americano</li>
-                                        <li>Americano</li>
+                                        <li>iced coffee</li>
                                         <li>Flat White</li>
                                         <li>Tea</li>
                                     </ul>
@@ -257,37 +257,51 @@
 
     <!-- contact -->
 
-        <div class=contact-container>
-            <div class=contact-header id="contact">Contact</div>
-                <div class=contact-information>
-                    <p>
-                        <b>Our Location:</b><br>
-                        Raadshuisplein 28<br>
-                        Emmen<br><br>
-                        <b>Contact:</b><br>
-                        Mail: oui@mail.com<br>
-                        Phone: 050-226435<br><br><br><br><br>
-                        <b>Opening times:</b><br>
-                        Monday:<br>
-                        Tuesday:<br>
-                        Wednesday:<br>
-                        Thursday:<br>
-                        Friday:<br>
-                        Saturday:<br>
-                        Sunday:<br>
-                    </p>
+    <div class="contact-header" id="contact">Contact</div>
+        <div class="contact-container">
+            <div class="contact-informatie">
+                <div class="contact-locatie">
+                    <p class="locatie-titel">Our location:</p>
+                    <p class="locatie-text">Raadhuisplein 28, <br> Emmen</p>
                 </div>
-                <div class=openingstijden>
-                    <p>
-                        12:00-18:00<br>
-                        12:00-18:00<br>
-                        12:00-18:00<br>
-                        12:00-18:00<br>
-                        12:00-18:00<br>
-                        12:00-18:00<br>
-                        12:00-18:00<br>
-                    </p>
+                <div class="contact-titel">
+                    <p>Contact</p>
                 </div>
+                <div class="contact-contact">
+                    <ul>
+                        <li>mail: Oui@mail.com</li>
+                        <li>phone: 591-123123</li>
+                    </ul>
+                </div>
+                <div class="openings-tijden-titel">
+                    <p>Opening hours</p>
+                </div>
+                <div class="contact-openingstijden">
+                    <div class="contact-openingstijden-dag">
+                        <ul>
+                            <li>Monday:</li>
+                            <li>Tuesday:</li>
+                            <li>Wednesday:</li>
+                            <li>Thursday:</li>
+                            <li>Friday:</li>
+                            <li>Saturday:</li>
+                            <li>Sunday:</li>
+                        </ul>
+                    </div>
+                    <div class="contact-openingstijden-tijd">
+                        <ul>
+                            <li>12:00-18:00</li>
+                            <li>12:00-18:00</li>
+                            <li>12:00-18:00</li>
+                            <li>12:00-18:00</li>
+                            <li>12:00-18:00</li>
+                            <li>15:00-21:00</li>
+                            <li>15:00-21:00</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="contact-maps">
                 <div id="myMap" class="maps-area"></div>
             </div>
         </div>

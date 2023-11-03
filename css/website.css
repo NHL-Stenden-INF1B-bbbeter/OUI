@@ -174,7 +174,6 @@ body{
     margin-top: -20px;
 }
 
-
 .sweets-price{
     margin-left: 105px;
 }
@@ -213,9 +212,11 @@ body{
 .drinks-price-list{
     margin-left: 100px;
 }
+
 .cool-drinks{
     margin-top: 128px;
 }
+
 .cool-drink-list{
     display: flex;
     align-items: flex-start;
@@ -242,18 +243,21 @@ ul li {
     font-size: 19px;
     font-weight: bold;
 }
+
 .img_croissant{
     position: absolute;
     z-index: -1;
     width: 250px;
     opacity: 0.5;
 }
+
 .img_merengue{
     position: absolute;
     z-index: -1;
     width: 250px;
     opacity: 0.5;
 }
+
 .img_coffee{
     position: absolute;
     z-index: -1;
@@ -261,6 +265,7 @@ ul li {
     opacity: 0.5;
     padding-bottom: 20px;
 }
+
 .img_tea{
     position: absolute;
     z-index: -1;
@@ -299,6 +304,7 @@ ul li {
     font-size: 20px;
     font-family: "Circular Std";
 }
+
 .review2 {
     padding: 20px;
     margin-left: 100px;
@@ -327,6 +333,7 @@ ul li {
 .about-us-title p{
     font-size: 40px;
     font-family: "Caveat";
+    font-weight: bold;
 }
 
 .about-us{
@@ -426,31 +433,83 @@ ul li {
 
 /* contact */
 
-.contact-container {
+.contact-container{
     display: flex;
-    justify-content: absolute;
-    background-color: #EDE5BB;
-    width: 100%;
-    height: 100vh;
+    justify-content: space-around;
 }
 
-.contact-header{
+.contact-informatie {
+    margin-top: 5%;
     display: flex;
-    align-items: absolute;
-    font-family: "Caveat", serif;
-    margin-left: 600px;
-    margin-bottom: 40%;
-    font-size: 120px;
-    color: #95261F;
+    flex-direction: column;
+    margin-left: 15%;
 }
 
-.contact-information {
+.contact-locatie {
+    margin-bottom: 30px;
+}
+
+.openings-tijden-titel p{
+    font-family: "Circular Std";
+    margin-top: 30px;
+}
+.contact-contact {
     display: flex;
-    align-items: center;
-    margin-left: -700px;
-    font-size: 20px;
-    font-family: 'circularstd', sans-serif;
-    color: #95261F;
+    flex-direction: row;
+}
+
+.contact-contact ul li {
+    font-family: "Circular Std";
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.contact-openingstijden {
+    display: flex;
+    gap: 10px;
+}
+
+.contact-informatie p {
+    font-family: "Circular Std";
+    font-size: 15px;
+}
+
+.contact-titel {
+    font-family: "Circular Std";
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.locatie-text {
+    font-family: "Circular Std";
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.locatie-titel {
+    font-family: "Circular Std";
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.contact-openingstijden-tijd li {
+    font-family: "Circular Std";
+    font-weight: lighter; 
+    font-size: 15px;
+}
+
+.contact-openingstijden-dag li {
+    font-family: "Circular Std";
+    font-weight: lighter; 
+    font-size: 15px;
+}
+.openings-tijden-titel {
+    font-weight: bold; 
+    margin-top: 80px;
+}
+
+.contact-openingstijden-dag {
+    margin-bottom: 80px;
 }
 
 .maps-area {
@@ -459,23 +518,28 @@ ul li {
     height: 350px;
     width: 515px;
     background-color: white;
-    margin-top: 200px;
-    margin-left: 250px;
+    margin-top: 100px;
+    margin-left: 145px;
 }
 
-.openingstijden{
+.contact-header{
     display: flex;
-    justify-content: absolute;
-    align-items: right;
-    font-size: 20px;
-    font-family: 'circularstd', sans-serif;
-    margin-top: 28.8%;
+    align-content: center;
+    justify-content: center;
+    font-family: "Caveat", serif;
+    font-size: 35px;
+    color: #95261F;
+    font-weight: bold;
 }
 
+.container-contact {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
 
-@font-face {
-    font-family: 'circularstd';
-    src: url('Fonts/Circularstd.otf') format('opentype');
+.contact-maps {
+    justify-content: center;
 }
 
 #mymap{
@@ -484,7 +548,7 @@ ul li {
     height:400px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
     .contact-container {
       flex-direction: column;
       align-items: center;
@@ -500,14 +564,11 @@ ul li {
       font-size: 16px;
       margin-left: 0;
     }
-  
+
     .maps-area {
-      width: 100%;
-      max-height: 60vh;
-      max-width: 80%;
-      margin-left: 10px;
-      min-height: 250px; 
+        margin-left: 0;
     }
+    
     .openingstijden{
       font-size: 16px;
       margin-top: -125px;
