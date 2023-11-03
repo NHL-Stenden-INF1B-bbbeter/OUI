@@ -9,8 +9,6 @@
                 map = new Microsoft.Maps.Map('#myMap', {
                     credentials: 'AmGg7bKbDv096VFC3dt8jfHaGgbY3WZrS6y6KV9kKM3_RCdcRV-mAUKo-1LRKcNT'
                 });
-
-                //Make a request to geocode New York, NY.
                 geocodeQuery("Raadshuisplein 28, Emmen");
             }
 
